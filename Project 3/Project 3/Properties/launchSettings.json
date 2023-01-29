@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Project 3": {
+      "commandName": "Project",
+      "commandLineArgs": "getMsg\r\ncjr4702@cs.rit.edu"
+    }
+  }
+}
